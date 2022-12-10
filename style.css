@@ -1,0 +1,14 @@
+html {
+	background-color: #1a1a1a;
+	color: #fff;
+	font-size: 16px;
+}
+
+.p-footer {
+	color: green;
+	font-weight: bold;
+	font-size: 23px;
+	text-align: center;
+	padding: 12px;
+	background-color: #fff;
+}
